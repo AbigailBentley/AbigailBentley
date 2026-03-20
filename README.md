@@ -38,15 +38,31 @@ Git, GitHub, data visualisation, machine learning, computer vision, automation s
 
 ## 🚀 Featured Projects
 
+### 🔬 Lab Vision Safety System (Computer Vision + AI)
 
-### 🌫️ Air Quality Monitoring System (IoT + Data Pipeline)
-- Developed a Python-based system to collect and process sensor data from Arduino  
-- Structured data into CSV and JSON formats for database integration  
-- Linked datasets using experiment IDs for scalable data management  
-- Built a tkinter GUI to search and edit experiment metadata  
-- Visualised environmental data trends using matplotlib  
+🔗 View Project: [TO BE ADDED]
 
-> 🤝 This was a collaborative project — I contributed to Python development, data handling, GUI design, and visualisation.
+- Trained and evaluated a YOLOv8 model to detect lab personnel and equipment  
+- Achieved >94% recall and >98% precision  
+- Integrated depth data to calculate object distances (MAE: 6.84%)  
+- Built for improving safety and automation in laboratory environments
+
+
+---
+
+## 🤝 Collaborative Projects
+
+### 🌫️ Air Quality Monitoring System
+Developed as part of a team project using Arduino, Python, and SQLite.
+
+🔗 View Project: https://github.com/AbigailBentley/air-quality-monitoring-system
+
+**My contributions:**
+- Python scripts for wireless communication
+- Data storage (CSV + JSON structure)
+- GUI development using tkinter
+- Data visualisation using matplotlib
+
 
 ---
 
