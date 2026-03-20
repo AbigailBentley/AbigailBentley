@@ -86,7 +86,7 @@ I’m working towards a career in **software development and data-focused roles*
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/abigail-bentley1
+- 💼 [LinkedIn](https://www.linkedin.com/in/abigail-bentley1)
 
 ---
 
