@@ -23,15 +23,13 @@ Git, GitHub, data visualisation, machine learning, computer vision, automation s
 
 ## 🚀 Featured Projects
 
-### 🔬 Lab Object Detection System (Computer Vision + AI)
+### 🔬 Lab Object Detection System (Computer Vision + AI)  
+🔗 View Project: [lab-object-detection-system](https://github.com/AbigailBentley/lab-object-detection-system)
 
-🔗 View Project: [lab-object-detection-system](link to be added)
-
-- Trained and evaluated a YOLOv8 model to detect lab personnel and equipment  
+- Trained and evaluated a YOLOv8n model to detect chemists and lab equipment  
 - Achieved >94% recall and >98% precision  
-- Integrated depth data to calculate object distances (MAE: 6.84%)  
-- Built for improving safety and automation in laboratory environments
-
+- Integrated RGB-D data to calculate real-world object distances (MAE: 6.84%)  
+- Developed for improving safety and automation in laboratory environments
 
 ---
 
