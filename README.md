@@ -1,20 +1,5 @@
 ## 👋 Hi, I’m Abigail
 
-<!--
-**AbigailBentley/AbigailBentley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I’m a data-focused software developer with a background in chemistry, specialising in building data-driven systems, automation tools, and machine learning applications.
 
 I recently completed an MSc in Digital Chemistry at the University of Liverpool, where I applied programming, data analysis, and AI techniques to solve real-world scientific problems — from computer vision systems in laboratory environments to IoT-based data pipelines.
@@ -38,9 +23,9 @@ Git, GitHub, data visualisation, machine learning, computer vision, automation s
 
 ## 🚀 Featured Projects
 
-### 🔬 Lab Vision Safety System (Computer Vision + AI)
+### 🔬 Lab Object Detection System (Computer Vision + AI)
 
-🔗 View Project: [TO BE ADDED]
+🔗 View Project: [lab-object-detection-system](link to be added)
 
 - Trained and evaluated a YOLOv8 model to detect lab personnel and equipment  
 - Achieved >94% recall and >98% precision  
@@ -55,7 +40,7 @@ Git, GitHub, data visualisation, machine learning, computer vision, automation s
 ### 🌫️ Air Quality Monitoring System
 Developed as part of a team project using Arduino, Python, and SQLite.
 
-🔗 View Project: https://github.com/AbigailBentley/air-quality-monitoring-system
+🔗 View Project: [air-quality-monitoring-system](https://github.com/AbigailBentley/air-quality-monitoring-system)
 
 **My contributions:**
 - Python scripts for wireless communication
